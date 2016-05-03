@@ -1,17 +1,5 @@
 # Finance
 
-<input type="hidden" name="x_place" value="id_x_place" id="id_x_place"/>
-<input type="hidden" name="y_place" value="id_y_place" id="id_y_place"/>
-<form action="#" name="xy">
-    <table>
-        <tr><td>ｘ座標</td><td>=</td><td><input type="text" name="x_place1" id="id_x_place1"/></td><td>y座標</td><td>=</td><td><input type="text" name="y_place1" id="id_y_place1"/></td></tr>
-        <tr><td>前回の相手のｘ座標</td><td>=</td><td><input type="text" name="x_place2" id="id_x_place2"/></td><td>前回の相手のy座標</td><td>=</td><td><input type="text" name="y_place2" id="id_y_place2"/></td></tr>
-        <tr><td>期待利得</td><td>=</td><td><input type="text" name="expect_payoff" id="id_expect_payoff"/></td></tr>
-    </table>
-    {% next_button %}
-</form>
-<head>
-<meta charset="utf-8">
 <script type="text/javascript">
 var canvas;
 var ctx;
