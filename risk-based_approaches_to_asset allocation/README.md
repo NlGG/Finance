@@ -1,7 +1,7 @@
 # Risk-Based Approaches to Asset Allocation
 ------------
 ## Chap1 & Chap2  
-[スライドシェア]  
+[スライドシェア](http://www.slideshare.net/masakatooz/risk-based-approaches-to-asset-allocation-chap0102)
 ### 参考資料  
 [iPython notebook](Chap1_Chap2)  
 [Kan and Zhou (2007)](http://www.jstor.org/stable/27647314?seq=1#page_scan_tab_contents)  
